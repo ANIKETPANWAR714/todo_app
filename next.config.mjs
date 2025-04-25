@@ -8,4 +8,4 @@ const nextConfig = {
   assetPrefix: "/todo_app/",
 };
 
-module.exports = nextConfig;
+export default nextConfig;
